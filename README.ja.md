@@ -60,9 +60,9 @@
 </p>
 
 <p align="center">
-  <sub>アクティビティグラフ</sub>
+  <sub>GitHubの統計</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guigoviajante&amp;bg_color=211D1A&amp;color=E7D7C0&amp;line=B78A64&amp;point=E4B681&amp;area_color=453629&amp;area=true&amp;hide_border=true&amp;hide_title=true" alt="アクティビティグラフ" width="100%">
+  <img src="https://ghstats.dev/api/card?username=guigoviajante&amp;theme=dark" alt="GitHubの統計" width="100%">
 </p>
