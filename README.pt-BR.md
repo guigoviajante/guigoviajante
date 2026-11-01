@@ -17,3 +17,14 @@
   <sub>✓ Idioma atual: Português (Brasil)</sub>
 </p>
 
+<!-- Sobre Mim -->
+<p align="center">
+  <img src="./assets/banners/about-me-portugues.png" alt="Sobre Mim — GuigoViajante" width="100%">
+</p>
+
+<p align="center">
+  Sou o Guigo, estudante brasileiro de Análise e Desenvolvimento de Sistemas (ADS).<br>
+  Gosto de café, criatividade e de transformar ideias em projetos próprios.<br>
+  Tenho interesse em desenvolvimento web, cibersegurança e na mistura de código com design.<br>
+  Para mim, programar também é uma forma de imaginar, experimentar e criar algo com personalidade.
+</p>

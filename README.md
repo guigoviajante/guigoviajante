@@ -36,3 +36,15 @@
     <img src="./assets/buttons/guigo-links-button.png" alt="Guigo Links" width="340">
   </a>
 </p>
+
+<!-- About Me -->
+<p align="center">
+  <img src="./assets/banners/about-me-english.png" alt="About Me — GuigoViajante" width="100%">
+</p>
+
+<p align="center">
+  I'm Guigo, a Brazilian student of Systems Analysis and Development (ADS).<br>
+  I enjoy coffee, creativity, and turning ideas into projects of my own.<br>
+  I like exploring web development, cybersecurity, and the space between code and design.<br>
+  For me, programming is also a way to imagine, experiment, and build something with personality.
+</p>
