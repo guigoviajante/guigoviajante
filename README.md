@@ -1,68 +1,126 @@
-<!-- Banner principal -->
+<!-- GuigoViajante | GitHub Profile -->
 <p align="center">
   <img src="./Banner%20GitHub.png" alt="GuigoViajante — Lo-Fi Banner" width="100%">
 </p>
 
-<!-- Seleção de idioma -->
 <p align="center">
-  <strong>☕ CHOOSE YOUR LANGUAGE</strong>
+  <strong>☕ CHOOSE YOUR LANGUAGE / ESCOLHA SEU IDIOMA / 言語を選択</strong>
 </p>
 
-<p align="center">
-  <a href="./README.pt-BR.md"><img src="./assets/languages/lang-pt-BR.svg" width="195" alt="Português"></a>
-  <a href="./README.md"><img src="./assets/languages/lang-en.svg" width="195" alt="English"></a>
-  <a href="./README.ja.md"><img src="./assets/languages/lang-ja.svg" width="195" alt="日本語"></a>
-</p>
+<!-- Abra o idioma desejado sem sair do perfil. O inglês começa aberto. -->
 
-<p align="center">
-  <sub>✓ Current language: English (US)</sub>
-</p>
+<details open>
+  <summary><strong>English</strong></summary>
 
-<!-- Guigo Links -->
-<p align="center">
-  <strong>☕ Explore Guigo Links</strong>
-</p>
+  <p align="center">
+    <strong>☕ Explore Guigo Links</strong>
+  </p>
 
-<p align="center">
-  My little corner of the internet.<br>
-  Projects, social media and everything in between.
-</p>
+  <p align="center">
+    My little corner of the internet.<br>
+    Projects, social media and everything in between.
+  </p>
 
-<p align="center">
-  <a href="https://links.guigo.dev">
-    <img src="./assets/buttons/guigo-links-button.png" alt="Guigo Links" width="340">
-  </a>
-</p>
+  <p align="center">
+    <a href="https://links.guigo.dev">
+      <img src="./assets/buttons/guigo-links-button.png" alt="Guigo Links" width="340">
+    </a>
+  </p>
 
-<!-- About Me -->
-<p align="center">
-  <img src="./assets/banners/about-me-english.png" alt="About Me — GuigoViajante" width="100%">
-</p>
+  <p align="center">
+    <img src="./assets/banners/about-me-english.png" alt="About Me — GuigoViajante" width="100%">
+  </p>
 
-<p align="center">
-  I'm Guigo, a Brazilian student of Systems Analysis and Development (ADS).<br>
-  I enjoy coffee, creativity, and turning ideas into projects of my own.<br>
-  I like exploring web development, cybersecurity, and the space between code and design.<br>
-  For me, programming is also a way to imagine, experiment, and build something with personality.
-</p>
+  <p align="center">
+    I'm Guigo, a Brazilian student of Systems Analysis and Development (ADS).<br>
+    I enjoy coffee, creativity, and turning ideas into projects of my own.<br>
+    I like exploring web development, cybersecurity, and the space between code and design.<br>
+    For me, programming is also a way to imagine, experiment, and build something with personality.
+  </p>
 
-<!-- GitHub Activity -->
-<p align="center">
-  <strong>☕ GitHub Activity</strong>
-</p>
+  <p align="center">
+    <strong>☕ GitHub Activity</strong>
+  </p>
 
-<p align="center">
-  <sub>Contribution Snake</sub>
-</p>
+  <p align="center">
+    <img src="https://ghstats.dev/api/card?username=guigoviajante&amp;theme=dark" alt="GitHub Activity" width="100%">
+  </p>
+</details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guigoviajante/guigoviajante/output/github-snake.svg" alt="Contribution Snake" width="100%">
-</p>
+<details>
+  <summary><strong>Português</strong></summary>
 
-<p align="center">
-  <sub>GitHub Stats</sub>
-</p>
+  <p align="center">
+    <strong>☕ Explore Guigo Links</strong>
+  </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=guigoviajante&amp;theme=dark" alt="GitHub Stats" width="100%">
-</p>
+  <p align="center">
+    Meu cantinho na internet.<br>
+    Projetos, redes sociais e tudo o que existe entre eles.
+  </p>
+
+  <p align="center">
+    <a href="https://links.guigo.dev">
+      <img src="./assets/buttons/guigo-links-button.png" alt="Guigo Links" width="340">
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="./assets/banners/about-me-portugues.png" alt="Sobre Mim — GuigoViajante" width="100%">
+  </p>
+
+  <p align="center">
+    Sou o Guigo, estudante brasileiro de Análise e Desenvolvimento de Sistemas (ADS).<br>
+    Gosto de café, criatividade e de transformar ideias em projetos próprios.<br>
+    Tenho interesse em desenvolvimento web, cibersegurança e na mistura de código com design.<br>
+    Para mim, programar também é uma forma de imaginar, experimentar e criar algo com personalidade.
+  </p>
+
+  <p align="center">
+    <strong>☕ Atividade no GitHub</strong>
+  </p>
+
+  <p align="center">
+    <img src="https://ghstats.dev/api/card?username=guigoviajante&amp;theme=dark" alt="Atividade no GitHub" width="100%">
+  </p>
+</details>
+
+<details>
+  <summary><strong>日本語</strong></summary>
+
+  <p align="center">
+    <strong>☕ Guigo Links を探索</strong>
+  </p>
+
+  <p align="center">
+    インターネット上にある、私の小さな居場所。<br>
+    プロジェクトやSNSなど、さまざまな活動をまとめています。
+  </p>
+
+  <p align="center">
+    <a href="https://links.guigo.dev">
+      <img src="./assets/buttons/guigo-links-button.png" alt="Guigo Links" width="340">
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="./assets/banners/about-me-japones.png" alt="私について — GuigoViajante" width="100%">
+  </p>
+
+  <p align="center">
+    Guigoです。ブラジルでシステム分析・開発（ADS）を学んでいます。<br>
+    コーヒーと創作が好きで、思いついたアイデアを自分のプロジェクトにするのが楽しみです。<br>
+    Web開発やサイバーセキュリティ、コードとデザインを組み合わせることに興味があります。<br>
+    私にとってプログラミングは、想像し、試しながら、自分らしいものを作る手段でもあります。
+  </p>
+
+  <p align="center">
+    <strong>☕ GitHubでの活動</strong>
+  </p>
+
+  <p align="center">
+    <img src="https://ghstats.dev/api/card?username=guigoviajante&amp;theme=dark" alt="GitHubでの活動" width="100%">
+  </p>
+</details>
+
+<!-- A cobrinha só será adicionada após existir um SVG gerado na branch output. -->
