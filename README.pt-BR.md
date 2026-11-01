@@ -45,3 +45,24 @@
   Tenho interesse em desenvolvimento web, cibersegurança e na mistura de código com design.<br>
   Para mim, programar também é uma forma de imaginar, experimentar e criar algo com personalidade.
 </p>
+
+<!-- GitHub Activity -->
+<p align="center">
+  <strong>☕ Atividade no GitHub</strong>
+</p>
+
+<p align="center">
+  <sub>Cobrinha de contribuições</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guigoviajante/guigoviajante/output/github-snake.svg" alt="Cobrinha de contribuições" width="100%">
+</p>
+
+<p align="center">
+  <sub>Gráfico de atividades</sub>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guigoviajante&amp;bg_color=211D1A&amp;color=E7D7C0&amp;line=B78A64&amp;point=E4B681&amp;area_color=453629&amp;area=true&amp;hide_border=true&amp;hide_title=true" alt="Gráfico de atividades" width="100%">
+</p>

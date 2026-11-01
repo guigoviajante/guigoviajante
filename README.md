@@ -45,3 +45,24 @@
   I like exploring web development, cybersecurity, and the space between code and design.<br>
   For me, programming is also a way to imagine, experiment, and build something with personality.
 </p>
+
+<!-- GitHub Activity -->
+<p align="center">
+  <strong>☕ GitHub Activity</strong>
+</p>
+
+<p align="center">
+  <sub>Contribution Snake</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guigoviajante/guigoviajante/output/github-snake.svg" alt="Contribution Snake" width="100%">
+</p>
+
+<p align="center">
+  <sub>Activity Graph</sub>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guigoviajante&amp;bg_color=211D1A&amp;color=E7D7C0&amp;line=B78A64&amp;point=E4B681&amp;area_color=453629&amp;area=true&amp;hide_border=true&amp;hide_title=true" alt="Activity Graph" width="100%">
+</p>
