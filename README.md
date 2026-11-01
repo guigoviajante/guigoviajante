@@ -1,9 +1,9 @@
-<!-- Banner -->
+<!-- Banner principal -->
 <p align="center">
-  <img src="./Banner%20GitHub.png" alt="GuigoViajante — Banner Lo-Fi" width="100%">
+  <img src="./Banner%20GitHub.png" alt="GuigoViajante — Lo-Fi Banner" width="100%">
 </p>
 
-<!-- Idiomas -->
+<!-- Seleção de idioma -->
 <p align="center">
   <strong>☕ CHOOSE YOUR LANGUAGE</strong>
 </p>
@@ -18,10 +18,7 @@
   <sub>✓ Current language: English (US)</sub>
 </p>
 
-
 <!-- Guigo Links -->
-<br>
-
 <p align="center">
   <strong>☕ Explore Guigo Links</strong>
 </p>

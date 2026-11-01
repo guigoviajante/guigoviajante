@@ -1,8 +1,9 @@
-
+<!-- Banner principal -->
 <p align="center">
-  <img src="./Banner%20GitHub.png" alt="GuigoViajante — Banner Lo-Fi" width="100%">
+  <img src="./Banner%20GitHub.png" alt="GuigoViajante — Lo-Fi Banner" width="100%">
 </p>
 
+<!-- Seleção de idioma -->
 <p align="center">
   <strong>☕ ESCOLHA SEU IDIOMA</strong>
 </p>
@@ -15,6 +16,22 @@
 
 <p align="center">
   <sub>✓ Idioma atual: Português (Brasil)</sub>
+</p>
+
+<!-- Guigo Links -->
+<p align="center">
+  <strong>☕ Explore Guigo Links</strong>
+</p>
+
+<p align="center">
+  Meu cantinho na internet.<br>
+  Projetos, redes sociais e tudo o que existe entre eles.
+</p>
+
+<p align="center">
+  <a href="https://links.guigo.dev">
+    <img src="./assets/buttons/guigo-links-button.png" alt="Guigo Links" width="340">
+  </a>
 </p>
 
 <!-- Sobre Mim -->

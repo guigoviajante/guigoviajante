@@ -1,8 +1,9 @@
-
+<!-- Banner principal -->
 <p align="center">
   <img src="./Banner%20GitHub.png" alt="GuigoViajante — Lo-Fi Banner" width="100%">
 </p>
 
+<!-- Seleção de idioma -->
 <p align="center">
   <strong>☕ 言語を選択してください</strong>
 </p>
@@ -15,6 +16,22 @@
 
 <p align="center">
   <sub>✓ 現在の言語：日本語</sub>
+</p>
+
+<!-- Guigo Links -->
+<p align="center">
+  <strong>☕ Guigo Links を探索</strong>
+</p>
+
+<p align="center">
+  インターネット上にある、私の小さな居場所。<br>
+  プロジェクトやSNSなど、さまざまな活動をまとめています。
+</p>
+
+<p align="center">
+  <a href="https://links.guigo.dev">
+    <img src="./assets/buttons/guigo-links-button.png" alt="Guigo Links" width="340">
+  </a>
 </p>
 
 <!-- 私について -->
