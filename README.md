@@ -22,7 +22,9 @@
 <!-- Guigo Links -->
 <br>
 
-<h3 align="center">☕ Explore Guigo Links</h3>
+<p align="center">
+  <strong>☕ Explore Guigo Links</strong>
+</p>
 
 <p align="center">
   My little corner of the internet.<br>
