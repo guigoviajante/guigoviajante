@@ -18,13 +18,19 @@
   <sub>✓ Current language: English (US)</sub>
 </p>
 
+
 <!-- Guigo Links -->
+<br>
+
+<h3 align="center">☕ Explore Guigo Links</h3>
+
+<p align="center">
+  My little corner of the internet.<br>
+  Projects, social media and everything in between.
+</p>
+
 <p align="center">
   <a href="https://links.guigo.dev">
-    <img
-      src="./assets/buttons/guigo-links-button.png"
-      alt="Guigo Links"
-      width="340"
-    >
+    <img src="./assets/buttons/guigo-links-button.png" alt="Guigo Links" width="340">
   </a>
 </p>
