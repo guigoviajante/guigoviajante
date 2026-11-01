@@ -18,22 +18,13 @@
   <sub>✓ Current language: English (US)</sub>
 </p>
 
-<!-- GuigoLinks -->
-<br>
-
-<h3 align="center">☕ Explore Guigo Links</h3>
-
+<!-- Guigo Links -->
 <p align="center">
-  My little corner of the internet.<br>
-  Projects, social media and everything in between.
-</p>
-
-<p align="center">
-  <a href="https://guigo.dev">
-    <img src="https://img.shields.io/badge/🌐_EXPLORE_GUIGO_LINKS-453629?style=for-the-badge&labelColor=211D1A" alt="Explore Guigo Links">
+  <a href="https://links.guigo.dev">
+    <img
+      src="./assets/buttons/guigo-links-button.png"
+      alt="Guigo Links"
+      width="340"
+    >
   </a>
-</p>
-
-<p align="center">
-  <sub>guigo.dev</sub>
 </p>
